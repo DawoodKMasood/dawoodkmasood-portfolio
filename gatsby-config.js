@@ -9,7 +9,6 @@ module.exports = {
     github: `DawoodKMasood`,
   },
   plugins: [
-    `gatsby-plugin-manifest`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
