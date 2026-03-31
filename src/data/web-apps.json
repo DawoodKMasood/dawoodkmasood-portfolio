@@ -1,0 +1,46 @@
+[
+  {
+    "id": "numfer",
+    "name": "Numfer",
+    "description": "A powerful number management platform for tracking, organizing, and analyzing numerical data with real-time insights.",
+    "url": "https://numfer.app",
+    "github": "https://github.com/DawoodKMasood/numfer",
+    "technologies": ["React", "Node.js", "TypeScript", "PostgreSQL"],
+    "image": "numfer.png"
+  },
+  {
+    "id": "vektora-org-blog",
+    "name": "Vektora Blog",
+    "description": "A modern MDX-powered blog platform for the Vektora organization, featuring rich content creation and beautiful typography.",
+    "url": "https://blog.vektora.org",
+    "github": "https://github.com/DawoodKMasood/vektora-org-blog",
+    "technologies": ["React", "MDX", "Gatsby", "TypeScript"],
+    "image": "vektora-blog.png"
+  },
+  {
+    "id": "numfer-short-links",
+    "name": "Numfer Short Links",
+    "description": "A URL shortening service built with TypeScript and Cloudflare Workers for lightning-fast link redirection.",
+    "url": "https://links.numfer.app",
+    "github": "https://github.com/DawoodKMasood/numfer-short-links",
+    "technologies": ["TypeScript", "Cloudflare Workers", "React"],
+    "image": "short-links.png"
+  },
+  {
+    "id": "ad-reporting",
+    "name": "Ad Reporting",
+    "description": "A comprehensive advertising reporting tool for analyzing campaign performance and generating actionable insights.",
+    "url": "https://reports.example.com",
+    "github": "https://github.com/DawoodKMasood/ad-reporting",
+    "technologies": ["React", "Node.js", "Chart.js", "TypeScript"],
+    "image": "ad-reporting.png"
+  },
+  {
+    "id": "x-twitter-bot",
+    "name": "X/Twitter Bot",
+    "description": "An automated Twitter bot for engagement, content scheduling, and analytics tracking.",
+    "github": "https://github.com/DawoodKMasood/x-twitter-bot",
+    "technologies": ["Node.js", "Twitter API", "JavaScript"],
+    "image": "twitter-bot.png"
+  }
+]

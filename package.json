@@ -1,0 +1,27 @@
+{
+  "name": "dawood-khan-masood-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio website for Dawood Khan Masood - Senior Frontend Engineer",
+  "author": "Dawood Khan Masood",
+  "keywords": [
+    "gatsby",
+    "portfolio",
+    "react",
+    "frontend-engineer"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.13.0",
+    "gatsby-plugin-manifest": "^5.13.0",
+    "gatsby-source-filesystem": "^5.13.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sleep-reminders-app",
+    "name": "Sleep Reminders",
+    "description": "A thoughtful sleep tracking and reminder app to help you maintain healthy sleep habits and wake up refreshed.",
+    "detailedDescription": "Sleep Reminders helps you establish consistent sleep patterns by sending gentle notifications at your ideal bedtime. Track your sleep quality, view trends over time, and wake up feeling refreshed every day. Features include customizable reminder times, sleep history tracking, and bedtime recommendations based on your wake-up time.",
+    "platform": "Both",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sleepreminders",
+    "appStoreUrl": "https://apps.apple.com/app/sleep-reminders",
+    "github": "https://github.com/DawoodKMasood/sleep-reminders-app",
+    "technologies": ["React Native", "Firebase", "TypeScript"],
+    "image": "sleep-reminders.png",
+    "hasPrivacyPolicy": true
+  }
+]
